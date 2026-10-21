@@ -1,2 +1,2 @@
 # Gamified-Coding-Website
-This is a class project for help student understand coding by gaming way.
+This is a community project to help student understand coding through a gamified learning process
